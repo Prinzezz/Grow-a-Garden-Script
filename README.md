@@ -6,7 +6,8 @@
 
 | Functionality           | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| 🌾 Dupe Seeds           | Instantly clone any seeds without needing a key                             |
+| 🌾 Dupe Seeds           | Instantly clone any seeds without needing a key
+|
 | 🌕 AUTO MOONLIT         | Automates the Moonlit garden tasks and quests                               |
 | 💰 Infinite Money       | Earn unlimited coins passively through auto farming                         |
 | 🪴 Auto Plant            | Plants seeds automatically for maximum garden output                        |
